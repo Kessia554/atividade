@@ -1,0 +1,107 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilo para o Título 1 */
+.titulo-estilo1 {
+    font-size: 2.5em;
+    color: #2d728d; /* Cor verde */
+    background-color: #c7bee6; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 2 */
+.titulo-estilo2 {
+    font-size: 2.5em;
+    color: #4c864e; /* Cor verde */
+    background-color: #b690e2; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+/* Estilo para o Título 3 */
+.titulo-estilo3 {
+    font-size: 2.5em;
+    color: #1E90FF; /* Cor azul */
+    background-color: #7f5799; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+/* Estilo para o Título 4*/
+.titulo-estilo4 {
+    font-size: 2.5em;
+    color: #acb840; /* Cor rosa */
+    background-color: #6b148d; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Texto 1 */
+.texto-estilo1 {
+    font-size: 1.2em;
+    color: #ffffff; /* Cor cinza-escuro */
+    background-color: #253f52; /* Fundo azul-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Estilo para o Texto 2 */
+.texto-estilo2 {
+    font-size: 1.2em;
+    color: #fffdfd; /* branco */
+    background-color: #426781; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Estilo para o Texto 3 */
+.texto-estilo3 {
+    font-size: 1.2em;
+    color: #ffffff; /* branco */
+    background-color: #4b7da0; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+/* Estilo para o Texto 4 */
+.texto-estilo4 {
+    font-size: 1.2em;
+    color: #fffbfb; /* Cor branco*/
+    background-color: #acd4f0; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
